@@ -1,0 +1,19 @@
+2024/09/13
+v0.10.0
+
+New exercises:
+B10. Nasal release
+B11. Lateral release
+
+Reworked exercises:
+B15 to include only minimal pairs
+B1, B2 not to include /m/
+
+Other changes:
+Added page headers
+Fixed B exercises numbering
+Atypical spellings are now marked with a superscript !
+Sounds that are used before they are introduced are now in bold
+Added notes for ex. 32, 33
+Fixed broken links
+Fixed typos
