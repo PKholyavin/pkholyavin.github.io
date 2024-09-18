@@ -1,4 +1,20 @@
-2024/09/14
+2024-09-18
+v0.12.0
+
+New exercises:
+B31.5. /t͡ʃ/ – /d͡ʒ/
+B33.5. /t͡ʃɔː/ – /t͡ʃɜː/ – /d͡ʒɔː/ – /d͡ʒɜː/
+
+Reworked exercises:
+B19: replaced 'crucial' - 'bushel' with 'elusion' - 'cushion' to avoid using /r/; moved to end of exercise
+B24: replaced 'ruble' with 'pupil' to avoid using /r/
+
+Other changes:
+Fixed typos
+
+----------
+
+2024-09-14
 v0.11.0
 
 New exercises:
@@ -11,7 +27,7 @@ Fixed typos
 
 ----------
 
-2024/09/13
+2024-09-13
 v0.10.0
 
 New exercises:
