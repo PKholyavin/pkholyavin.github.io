@@ -1,4 +1,13 @@
 2024-09-18
+v0.12.1
+
+Other changes:
+Added sound for ex. B31, B34, B35
+Fixed typos
+
+----------
+
+2024-09-18
 v0.12.0
 
 New exercises:
