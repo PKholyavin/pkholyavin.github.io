@@ -1,3 +1,24 @@
+2024-09-22
+v0.13.0
+
+New exercises:
+B36.5. /a͜ɪ/ – /a͜ɪə/ – /a͜ʊ/ – /a͜ʊə/
+
+Reworked exercises:
+B38: replaced /viːz – vɪəz – vɪz/ with /hiːz – hɪəz – hɪz/ to accommodate for available sound
+B42: added words with other vowels
+
+Other changes:
+Added sound for ex. B38
+Replaced /spɔː/ with /spʊə/ in sound for ex. B45, removed note
+Added note in ex. 61 concerning unstressed /ɪə/ vs /i(ː)/ + /ə/
+Fixed note in ex. 72 to correctly point out which words are pronounced with /ɔː/
+Added note in ex. 72 concerning the pronunciations of 'jewel' and 'fluent'
+Removed redundant "Note" in notes
+Fixed typos
+
+----------
+
 2024-09-20
 v0.12.1
 
