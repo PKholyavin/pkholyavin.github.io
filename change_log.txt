@@ -1,3 +1,14 @@
+2024-09-24
+v0.14.0
+
+New exercises:
+B41.5. /ɪŋ/ – /ɪn/
+
+Other changes:
+Fixed typos
+
+----------
+
 2024-09-22
 v0.13.0
 
