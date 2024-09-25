@@ -1,3 +1,26 @@
+2024-09-25
+v0.15.0
+
+New exercises:
+B44.5. /ɜː/ – /wɜː/
+B47.5. /e͜ɪ/ – /e͜ɪə/ – /e͜ə/
+B48.5. /ɔ͜ɪə/ – /ɔ͜ɪə/ – /ə͜ʊ/ – /ə͜ʊə/
+
+Reworked exercises:
+69: split into two parts (/w/ and /wɜː/), each with a separate recording
+
+Other changes:
+Replaced "near"-terms with clearer IPA terms:
+    near-front -> retracted front
+    near-back -> advanced back
+    near-close -> lowered close
+    near-open -> raised open
+Changed /ɪkˈspɪərɪəns/ to /ekˈspɪərɪəns/ in ex. 62 as in audio
+Added note in ex. 61: This word [experience] is more often pronounced as /ɪkˈspɪərɪəns/
+Fixed typos
+
+----------
+
 2024-09-24
 v0.14.0
 
