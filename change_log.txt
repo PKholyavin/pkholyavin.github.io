@@ -1,4 +1,12 @@
 2024-09-25
+v0.16.0
+
+New exercises:
+B50.5. Diphthong + diphthong
+
+----------
+
+2024-09-25
 v0.15.0
 
 New exercises:
