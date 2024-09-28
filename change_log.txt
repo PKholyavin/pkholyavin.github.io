@@ -1,3 +1,15 @@
+2024-09-28
+v0.16.1
+
+Other changes:
+Added list of symbols and notational conventions
+Added eng->rus dictionary of essential phonetic terms
+Added sound for intonation exercises (now the only questian there is to ask,, is why?)
+Minor layout changes
+Fixed typos
+
+----------
+
 2024-09-25
 v0.16.0
 
