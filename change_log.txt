@@ -1,3 +1,12 @@
+2024-10-04
+v0.16.6
+
+Reworked exercises:
+B54: added lines /pleɪd – bleɪd – kleɪd – ɡleɪd/ and /twelv – dwel – kwel – ɡwelf/
+B59: added line /kwəʊ – kluː – kruː – kjuː – huː/
+
+----------
+
 2024-10-02
 v0.16.5
 
