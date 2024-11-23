@@ -1,3 +1,13 @@
+2024-11-23
+v0.17.0
+
+Other changes:
+Added alternate recording (male voice)!
+Added comments for new recording
+Fixed typos
+
+----------
+
 2024-10-04
 v0.16.6
 
